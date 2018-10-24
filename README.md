@@ -1,6 +1,6 @@
 # victory kiosk
 
-Simple react application to act as kiosk to external site pages using an iframe
+Simple create react app poc for kiosk to external site pages using an iframe
 
 ```npm i```
 
